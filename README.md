@@ -1,16 +1,27 @@
-## Hi there 👋
+Professional Certifications & Learning Portfolio – Arijit445
 
-<!--
-**Arijit445/Arijit445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my certification and learning repository collection.
+Below are my completed programs across AI, HR Tech, Cloud, Cybersecurity, and Project Management.
 
-Here are some ideas to get you started:
+🤖 Generative AI & Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Generative AI, Recruiting & Talent Acquisition – Project Management Institute (PMI)
+https://github.com/Arijit445/Gen-AI.git
+Microsoft Azure AI Essentials: Workloads & Machine Learning on Azure – LinkedIn Learning
+https://github.com/Arijit445/Microsoft-Azure-AI-Essentials.git
+AI Tools Workshop – be10X - https://certx.in/certificate/0270772f-3809-4400-b29b-1e1c61cd09971208116
+
+👩‍💼 HR & Talent Acquisition
+
+SAP HCM Professional (Payroll, Time Management, OM & PA) – UN IT Solutions
+https://github.com/Arijit445/SAP-HCM.git
+Recruiting Foundation for Corporate – SHRM Institutes
+https://github.com/Arijit445/Corporate-Hiring-Foundation-Programme.git
+
+🔐 Cybersecurity
+
+Cybersecurity Threat Landscape – LinkedIn Learning
+https://github.com/Arijit445/Cybersecurity.git
+📊 Project Management & Agile
+Agile Practitioner (Agile Foundations) – Project Management Institute (PMI)
+https://github.com/Arijit445/Agile-Foundations.git
